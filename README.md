@@ -61,7 +61,9 @@
 ## 📫 Contact Me
 - 📧 Email: **mdabusayedhasan555@gmail.com**
 - 🌐 Portfolio: *Coming Soon*
-- 🔗 LinkedIn / Facebook / GitHub Links (যদি থাকে)
+- 🔗www.linkedin.com/in/
+md-abu-shahid-1299573b3
+ / Facebook / GitHub Links (যদি থাকে)
 
 ---
 
