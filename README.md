@@ -59,7 +59,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **your-email@example.com**
+- 📧 Email: **mdabusayedhasan555@gmail.com**
 - 🌐 Portfolio: *Coming Soon*
 - 🔗 LinkedIn / Facebook / GitHub Links (যদি থাকে)
 
