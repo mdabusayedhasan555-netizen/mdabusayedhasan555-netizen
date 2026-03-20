@@ -1,6 +1,6 @@
  <!-- Banner / Header -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF7zsqI7qq8Yw/profile-displaybackgroundimage-shrink_350_1400/B56Z0JEsX5JsAc-/0/1773973724651?e=1775692800&v=beta&t=8jsa5CMA2DXPOE29Jw2XLX2MXHFeJxkTu-R9NcF_OhE" width="800"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGtrDI8iqpAMw/profile-displaybackgroundimage-shrink_350_1400/B56Z0Lk6YSJgAg-/0/1774015722575?e=1775692800&v=beta&t=FAicC9HcFJjlzZeSEeFPvVlJabraSRKcpKoNQStvwzM" width="800"/>
 </p>
 
 <h1 align="center">⚡ Abu Shahid — Cybersecurity Enthusiast</h1>
