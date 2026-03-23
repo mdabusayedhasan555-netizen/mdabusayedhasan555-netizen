@@ -59,10 +59,9 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **mdabusayedhasan555@gmail.com**
-- 🌐 Portfolio: *Coming Soon*
-- 🔗www.linkedin.com/in/
-md-abu-shahid-1299573b3
+- 📧 Email: **mdabusayedhasan555@gmail.com**  
+- 🌐 Portfolio: *https://www.facebook.com/profile.php?id=61578207455429*  
+- 🔗 LinkedIn: *https://www.linkedin.com/in/abu-shahid-1299573b3/*
 
 ---
 
