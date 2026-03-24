@@ -1,6 +1,6 @@
  <!-- Banner / Header -->
 <p align="center">
-  <img src="https://scontent.fdac206-1.fna.fbcdn.net/v/t39.30808-6/655432472_122165981156940248_3909349454360588525_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=h0uvhxSkYwoQ7kNvwHuMW6C&_nc_oc=AdobUO9s-JLNMc1Oi2WaW0JXAy6UM7mZ0sD87w6eGdUX3hkpf0uR1CSLOTU53fGYQIw&_nc_zt=23&_nc_ht=scontent.fdac206-1.fna&_nc_gid=a8vj32ln_NkqLnfWfriWKw&_nc_ss=7a32e&oh=00_AfypTpq6r3tu_xc_PnEccOhGu2XZArpI-0zP5ZFndvDWYA&oe=69C7DCFA" width="800"/>
+  <img src="https://scontent.fdac206-1.fna.fbcdn.net/v/t39.30808-6/656823640_122165944106940248_2928249868837780588_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=CFkY1t0Am9kQ7kNvwHxQLfc&_nc_oc=AdqkNluFQgidlEbtFDzLmUW_JA6zhBBfWADKc-nRhgQvvUBefIVw7GwHMqt-bEb60bg&_nc_zt=23&_nc_ht=scontent.fdac206-1.fna&_nc_gid=oe3fX_QvJYh3iVN5lJlHWw&_nc_ss=7a32e&oh=00_AfxGH2pihGH1M20X6RmPV_nZCub_7cDqupvehaQU5svgug&oe=69C7BF6E" width="800"/>
 </p>
 
 <h1 align="center">⚡ Abu Shahid — Cybersecurity Enthusiast</h1>
