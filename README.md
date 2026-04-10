@@ -1,6 +1,6 @@
  <!-- Banner / Header -->
 <p align="center">
-  <img src="https://scontent.fdac206-1.fna.fbcdn.net/v/t39.30808-6/655367133_122165749292940248_7071296625543924185_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=N1XpCuKD0voQ7kNvwHnTwz5&_nc_oc=AdqUDNoU8tNP84v_2n0wK9F4nHx7RQ4SAWN7c_vLrUN7ZSkvDW6t9kXaxJ6IvD16ZbM&_nc_zt=23&_nc_ht=scontent.fdac206-1.fna&_nc_gid=5Odg0Wt4lCPGch-a_LqbXw&_nc_ss=7a3a8&oh=00_Af2uvmrRnxZatyauy3A_OSoCcgh-K2KSJrS77q0oXKXRPg&oe=69D59188"/>
+  <img src="https://www.linkedin.com/in/abu-shahid-1299573b3/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BItZzPWBWRo6WwmL6XiVobg%3D%3D"/>
 </p>
 
 <h1 align="center">⚡ Abu Shahid — Cybersecurity Enthusiast</h1>
